@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-275
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "monster sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "monster sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				391
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "monster sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "monster sing lef",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "monster danceRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "monster danceLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rtmonster",
+	"position": [
+		-260,
+		-260
+	],
+	"healthicon": "rtmonster",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		235,
+		135
+	],
+	"camera_position": [
+		0,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
