@@ -1,0 +1,49 @@
+{
+	"storyName": "Spooky Scary",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "w2",
+	"weekBefore": "rtweek1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"RT Spookeez",
+			"rtspookeez",
+			[
+				80,
+				0,
+				53
+			]
+		],
+		[
+			"RT South",
+			"rtspookeez",
+			[
+				80,
+				0,
+				53
+			]
+		],
+		[
+			"Pesticide",
+			"rtmonster",
+			[
+				46,
+				0,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "RT Week 2"
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "Runaway",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "w1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"RT Bopeebo",
+			"rtdad",
+			[
+				255,
+				73,
+				155
+			]
+		],
+		[
+			"RT Fresh",
+			"rtdad",
+			[
+				255,
+				73,
+				155
+			]
+		],
+		[
+			"RT Dad Battle",
+			"rtdad",
+			[
+				255,
+				73,
+				155
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week 1 (Rose-Tinted)"
+}
